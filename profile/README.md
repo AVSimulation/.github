@@ -3,6 +3,9 @@
 AVSimulation designs, sells and maintains a wide range of automotive simulation software and solutions. We are the only player in the market to offer simulation software, simulators and all associated services.
 
 The AVSimulation GitHub contains many kinds of resources:
+- Public Quick Start content
+  - Guide
+  - Samples
 - Public projects with open source softwares contributions
   - [rpclib](https://github.com/AVSimulation/rpclib)
   - [cal3d](https://github.com/AVSimulation/cal3d)
