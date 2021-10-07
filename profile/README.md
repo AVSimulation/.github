@@ -4,8 +4,8 @@ AVSimulation designs, sells and maintains a wide range of automotive simulation 
 
 The AVSimulation GitHub contains many kinds of resources:
 - Public Quick Start content
-  - Guide
-  - Samples
+  - [Guide](https://github.com/AVSimulation/SCANeR-User-Guides)
+  - [Samples](https://github.com/AVSimulation/SCANeR-Samples-Pack)
 - Public projects with open source softwares contributions
   - [rpclib](https://github.com/AVSimulation/rpclib)
   - [cal3d](https://github.com/AVSimulation/cal3d)
