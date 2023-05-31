@@ -17,5 +17,6 @@ The AVSimulation GitHub contains many kinds of resources:
   - [osgCal](https://github.com/AVSimulation/osgCal)
   - [osgocean](https://github.com/AVSimulation/osgocean)
   - [osgPPU](https://github.com/AVSimulation/osgPPU)
+  - [sigar]https://github.com/AVSimulation/sigar
 - Private projects for sharing with customers
 
