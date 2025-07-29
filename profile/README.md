@@ -15,6 +15,7 @@ The AVSimulation GitHub contains many kinds of resources:
   - [osgearth](https://github.com/AVSimulation/osgearth)
   - [osgocean](https://github.com/AVSimulation/osgocean)
   - [osgPPU](https://github.com/AVSimulation/osgPPU)
+  - [VirtualPlanetBuilder](https://github.com/AVSimulation/VirtualPlanetBuilder)
   - [QtTools](https://github.com/AVSimulation/QtTools)
   - [rpclib](https://github.com/AVSimulation/rpclib)
   - [sigar](https://github.com/AVSimulation/sigar)
